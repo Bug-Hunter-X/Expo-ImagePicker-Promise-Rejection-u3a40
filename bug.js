@@ -1,0 +1,1 @@
+This error occurs when using the Expo ImagePicker library. The issue is that the library does not always return a response. This can happen for a variety of reasons, including network issues or problems with the device's camera. When this happens, the promise that the ImagePicker library returns will never resolve. This can cause your application to hang or crash.
